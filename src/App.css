@@ -104,12 +104,14 @@
   border-top: 5px dotted black;
   width: 50%;
   margin: auto;
-   
+  justify-content: center; 
 }
 
 .contact-list i{
   font-size: 66px;
   padding-right: 5rem;
+  padding-left: 3em;
+  
 }
 
 
