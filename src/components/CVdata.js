@@ -1,7 +1,7 @@
 export const CVData = {
     personalData: {
       name: 'Divyansh Chaudhary',
-      title: 'Front End Developer',
+      title: 'Product Expert',
       image: 'https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/16602896_1571920622837072_4161117462931355705_n.jpg?_nc_cat=108&_nc_oc=AQlLcCiFX4vKACF8b06Bh3jGtBsmwQoJHKKKcP-EQDFy5Gs5r5QqRrfzaqGMyqyfdWo&_nc_ht=scontent.fdel8-1.fna&oh=320d2bfe9d0c44750fc3cd4fa16f2b64&oe=5E2EA832',
       contacts: [
         { type: 'email', value: 'divi.v@outlook.com' },
