@@ -4,6 +4,7 @@ export const profile = {
   phone: '+91 73829 71692',
   linkedin: 'https://www.linkedin.com/in/divyansh-chaudhary-887744119/',
   github: 'https://github.com/divyans7',
+  portrait: '/portrait.jpg',
   summary: 'CSPO and Senior Business Analyst with 6+ years of experience connecting product strategy, user needs, and agile delivery across SaaS, B2B, and B2C products. I turn complex business problems into clear roadmaps, actionable backlogs, and releases that deliver measurable value.'
 };
 
